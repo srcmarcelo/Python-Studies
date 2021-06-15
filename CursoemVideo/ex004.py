@@ -1,0 +1,6 @@
+thing = input('just type something: ')
+print('the type of that is:', type(thing))
+print('are there just letters?', thing.isalpha())
+print('is it a numer?', thing.isnumeric())
+print('was it wrotte by lower letters?', thing.islower())
+print('is it upper?', thing.isupper())
