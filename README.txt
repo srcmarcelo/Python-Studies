@@ -1,0 +1,1 @@
+More than 100 exercises for training on Python.
